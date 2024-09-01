@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#dice-container {
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+    border: 1px solid #ccc;
+    perspective: 1000px;
+}
+
+#roll-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
